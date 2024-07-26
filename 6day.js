@@ -49,11 +49,17 @@ for(let i=0;i<5;i++)
 {
     console.log(l[i])
 }
-// task 11
-array.forEach(element => {
-    
-});
+
 // task 12
+let twoDarray = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+]
+console.log(twoDarray)
+// task 13
+console.log(twoDarray[1][2])
+
 
 
 
